@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gertec.Api.props" />
+</Project>

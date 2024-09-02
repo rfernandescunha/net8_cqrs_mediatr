@@ -1,0 +1,15 @@
+D:\GitHub\Geterc\Geterc\Gertec.Application\bin\Debug\net8.0\Gertec.Application.deps.json
+D:\GitHub\Geterc\Geterc\Gertec.Application\bin\Debug\net8.0\Gertec.Application.dll
+D:\GitHub\Geterc\Geterc\Gertec.Application\bin\Debug\net8.0\Gertec.Application.pdb
+D:\GitHub\Geterc\Geterc\Gertec.Application\bin\Debug\net8.0\Gertec.Domain.dll
+D:\GitHub\Geterc\Geterc\Gertec.Application\bin\Debug\net8.0\Gertec.Domain.pdb
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.csproj.AssemblyReference.cache
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.AssemblyInfoInputs.cache
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.AssemblyInfo.cs
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.csproj.CoreCompileInputs.cache
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.A.3DFAAD0F.Up2Date
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.dll
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\refint\Gertec.Application.dll
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\Gertec.Application.pdb
+D:\GitHub\Geterc\Geterc\Gertec.Application\obj\Debug\net8.0\ref\Gertec.Application.dll

@@ -1,0 +1,34 @@
+﻿using Gertec.Api.Application.Product.Queries;
+using Gertec.Api.Application.Product.Repositories;
+using Gertec.Api.Infra.Data.Context;
+using Gertec.Api.Infra.Data.Repositories.Product;
+using Microsoft.EntityFrameworkCore;
+
+
+namespace Gertec.Infrastructure.BootStrap.DependencyInjection
+{
+    public static class InjectionRepository
+    {
+        public static void Register(IServiceCollection serviceCollection, IConfiguration configuration)
+        {
+            //Pega a Conexao do arquivo lauch.json
+            serviceCollection.AddDbContext<GertecDbContext>(options => options.UseMySql(
+                                                                                        configuration.GetSection("MySqlConfiguration").GetSection("ConnectionString").Value,
+                                                                                        new MySqlServerVersion(new Version(8, 0, 36))));
+
+
+
+            #region // queries //
+
+            serviceCollection.AddScoped<IProductQuery, ProductQuery>();
+
+            #endregion // queries //
+
+            #region // repositories //
+
+            serviceCollection.AddScoped<IProductRepository, ProductRepository>();
+
+            #endregion // repositories //
+        }
+    }
+}

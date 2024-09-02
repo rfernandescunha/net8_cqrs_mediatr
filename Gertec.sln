@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gertec.Api", "Geterc.Api\Gertec.Api.csproj", "{C4926F17-0DAC-4F1F-9352-6BE606EC1DE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gertec.Tests", "Gertec.Tests\Gertec.Tests.csproj", "{CF5BEFF2-B541-4BBD-A125-4A79FEE21893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4926F17-0DAC-4F1F-9352-6BE606EC1DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4926F17-0DAC-4F1F-9352-6BE606EC1DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4926F17-0DAC-4F1F-9352-6BE606EC1DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4926F17-0DAC-4F1F-9352-6BE606EC1DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5BEFF2-B541-4BBD-A125-4A79FEE21893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5BEFF2-B541-4BBD-A125-4A79FEE21893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5BEFF2-B541-4BBD-A125-4A79FEE21893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5BEFF2-B541-4BBD-A125-4A79FEE21893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D07931-B3D6-4179-8E58-4AECDD9257C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sr9S0eaakicNjTafqIt11DZOPPTYepJ/0cfaxQGd+2E=",
+  "Source": "Gertec.Api",
+  "BasePath": "_content/Gertec.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

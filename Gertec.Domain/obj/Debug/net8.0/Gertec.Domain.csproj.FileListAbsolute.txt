@@ -1,0 +1,11 @@
+D:\GitHub\Geterc\Geterc\Gertec.Domain\bin\Debug\net8.0\Gertec.Domain.deps.json
+D:\GitHub\Geterc\Geterc\Gertec.Domain\bin\Debug\net8.0\Gertec.Domain.dll
+D:\GitHub\Geterc\Geterc\Gertec.Domain\bin\Debug\net8.0\Gertec.Domain.pdb
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\Gertec.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\Gertec.Domain.AssemblyInfoInputs.cache
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\Gertec.Domain.AssemblyInfo.cs
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\Gertec.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\Gertec.Domain.dll
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\refint\Gertec.Domain.dll
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\Gertec.Domain.pdb
+D:\GitHub\Geterc\Geterc\Gertec.Domain\obj\Debug\net8.0\ref\Gertec.Domain.dll
